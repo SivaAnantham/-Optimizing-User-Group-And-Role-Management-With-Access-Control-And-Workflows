@@ -1,2 +1,11 @@
-# -Optimizing-User-Group-And-Role-Management-With-Access-Control-And-Workflows
-This solution enhances project oversight in ServiceNow by setting up users, groups, roles, custom tables, and ACLs integrated with automated workflows. It empowers project managers and team members to manage tasks, track progress,and process approvals efficiently,while role-based access and ACLs maintain data integrity across the project lifecycle.
+# Optimizing-User-Group-And-Role-Management-With-Access-Control-And-Workflows-
+
+Optimizing User, Group, and Role Management with Access Control and Workflows in service now Here You will find all the document files related to the " Prevent user deletion if assigned to an incident" Project.
+
+Team ID: NM2025TMID09096
+
+Team Size: 2
+
+Team Leader: SIVA ANANTHAM S V
+
+Team member: RAHUL C
